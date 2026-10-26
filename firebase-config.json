@@ -1,6 +1,8 @@
 {
-  "apiKey": "AIzaSyCcw2RzQ9ywGSNvDJNtaZGjtBffe3u-uCM",
+  "apiKey": "AIzaSyCcw2RzO9vwGSNyDJNtaZGitBffe3u-ucM",
   "authDomain": "croqui-6e8d9.firebaseapp.com",
   "projectId": "croqui-6e8d9",
-  "appId": "1:515427102374:web:5887d7af0a6e0c71e84e67"
+  "appId": "1:515427102374:web:5887d7af0a6e0c71e84e67",
+  "messagingSenderId": "515427102374",
+  "storageBucket": "croqui-6e8d9.firebasestorage.app"
 }
